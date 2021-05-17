@@ -1,0 +1,91 @@
+{
+  "name": "Estela Diaz",
+  "title": "Software Engineer",
+  "description": "Creative and energetic Full-Stack Software Engineer with an eye for design and a love for building delightful user experiences.",
+  "experience": [
+    {
+      "company": "Loop Support",
+      "role": "Software Engineer",
+      "dates_employed": "February 2021 - Present",
+      "description": [
+        "Built editing features and unit tests for logging agent timecards and schedules using Ruby on Rails and React.js.",
+        "Created a Storybook to house components library used in agent dashboards and Chrome extension.",
+        "Aided in recruiting efforts by copywriting job posts and reviewing applicants."
+      ]
+    },
+    {
+      "company": "EasyPost",
+      "role": "Software Engineer",
+      "dates_employed": "November 2019 - January 2021",
+      "description": [
+        "Migrated easypost.com from Jekyll to Next.js, including a sitewide redesign of EasyPost's marketing website and product dashboard. Upon launch, some pages (ex. Pricing) saw an increase in CTR as high as 52%.",
+        "Maintained and built new features into EasyPost's React.js Components Library in Storybook, creating stories to document component use cases. Collaborated closely with Designers to ensure pixel-perfect development."
+      ]
+    },
+    {
+      "company": "Facebook",
+      "role": "Web Developer",
+      "dates_employed": "May 2019 - October 2019",
+      "description": [
+        "Lead creation of reuseable email modules for the Facebook/Instagram Business CMS.",
+        "Collaborated with Designers and Data Scientists to create personalized landing pages for Facebook and Instagram Business acquisition."
+      ]
+    },
+    {
+      "company": "Segment",
+      "role": "Software Engineer",
+      "dates_employed": "June 2018 - March 2019",
+      "description": [
+        "Built content modules and a template cloner for commonly requested marketing pages using Express.js and the Contentful API. Reduced the time needed to create Case Study, Partner, and Product pages from a full business day to a few minutes.",
+        "Re-designed style implementation across Segment.com using page-level themeing with Emotion.js."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "name": "University of California, Santa Barbara",
+      "role": "Bachelor of Science – Biological Sciences",
+      "dates": "June 2015"
+    },
+    {
+      "name": "General Assembly",
+      "role": "Front-End Web Development",
+      "dates": "December 2016",
+      "description": "Focused on creating accessible websites with HTML5, CSS3, and JavaScript (ES6)."
+    },
+    {
+      "name": "Agile Learning Labs",
+      "role": "Certified Scrum Master",
+      "dates": "March 2020",
+      "description": "Learned to integrate Agile development and best practices to company workflows and be part of a Development team’s daily stand-ups, backlog grooming, sprint planning, and more."
+    }
+  ],
+  "software": {
+    "languages_and_frameworks": [
+      "HTML",
+      "CSS",
+      "SCSS",
+      "JavaScript",
+      "TypeScript",
+      "Styled Components",
+      "React.js",
+      "Express.js",
+      "Ruby",
+      "Python"
+    ],
+    "design_and_cms": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Drupal",
+      "Contentful",
+      "Netlify CMS"
+    ],
+    "tools": [
+      "Git",
+      "Notion",
+      "Jira",
+      "PostgreSQL",
+      "MongoDB"
+    ]
+  }
+}
